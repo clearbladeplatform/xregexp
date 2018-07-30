@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,xregexp",
+    "logging_enabled": "false",
+    "name": "xregexpSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "xregexpSmokeTest.js"
+}
